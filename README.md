@@ -1,4 +1,6 @@
 # Site
 Site da Empresa-Jr
+O projeto consistem ter um lyout simples de apresentação para divulgar os projetos realizados pela em empresa jr 
 
-Este repositório é para colocar o projeto do site da Empresa-Jr.
+Terá parte de apresentação sobre a empresa, serviços fornecidos, time , potifólio de projetos realizados
+
